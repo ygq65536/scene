@@ -1,0 +1,2 @@
+10/19 15.50
+固定前两个层，后边finetune，lr=0.01，保存在scenewholenetfinetune里，best保存在best目录下。
